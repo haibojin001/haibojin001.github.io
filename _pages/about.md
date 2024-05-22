@@ -30,14 +30,16 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2023</div><img src='images/ASE2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE'23</div><img src='images/ASE2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space**
 
 Haibin Zheng, Jinyin Chen, **Haibo Jin**
 
-[**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298498&casa_token=XQJ64WkgWy0AAAAA:lhkUs_9GIiav47xNgYA7dqoKPEGRi26X6Lw_tJjiYr-2xUrk3u01xZbWnw3yqbG4NWqBMNY8rQ&tag=1)
+The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) (ASE'23)
+
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298498&casa_token=XQJ64WkgWy0AAAAA:lhkUs_9GIiav47xNgYA7dqoKPEGRi26X6Lw_tJjiYr-2xUrk3u01xZbWnw3yqbG4NWqBMNY8rQ&tag=1) / [Code](https://github.com/haibinzheng/CertPri) / [DOI](https://doi.org/10.1109/ASE56229.2023.00126)
 
 </div>
 </div>
