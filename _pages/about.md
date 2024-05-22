@@ -30,19 +30,17 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ASE2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2023</div><img src='images/ASE2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CertPri: certifiable prioritization for deep neural networks via movement cost in feature space](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298498&casa_token=XQJ64WkgWy0AAAAA:lhkUs_9GIiav47xNgYA7dqoKPEGRi26X6Lw_tJjiYr-2xUrk3u01xZbWnw3yqbG4NWqBMNY8rQ&tag=1)
+**CertPri: Certifiable Prioritization for Deep Neural Networks via Movement Cost in Feature Space**
 
 Haibin Zheng, Jinyin Chen, **Haibo Jin**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298498&casa_token=XQJ64WkgWy0AAAAA:lhkUs_9GIiav47xNgYA7dqoKPEGRi26X6Lw_tJjiYr-2xUrk3u01xZbWnw3yqbG4NWqBMNY8rQ&tag=1)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **ASE 2023**
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
