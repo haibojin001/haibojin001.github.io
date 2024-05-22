@@ -39,7 +39,7 @@ My research interest includes trustworthy machine learning and the robustness of
 
 ICLR 2024 Workshop on Secure and Trustworthy Large Language Models (SeT LLM@ICLR'24)
 
-[PDF](https://arxiv.org/pdf/2402.03299) / [Code](https://github.com/Allen-piexl/GUARD) / [DOI](https://doi.org/10.48550/arXiv.2402.03299)
+[PDF](https://arxiv.org/pdf/2402.03299) / [Code](https://github.com/Allen-piexl/GUARD) / [Talk](https://www.youtube.com/watch?v=Do7K1fDGSRQ) / [DOI](https://doi.org/10.48550/arXiv.2402.03299)
 
 </div>
 </div>
