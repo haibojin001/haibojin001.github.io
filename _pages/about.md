@@ -30,6 +30,21 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SeT LLM@ICLR'24</div><img src='images/SetLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**
+
+**Haibo Jin**, Ruoxi Chen, Andy Zhou, Yang Zhang, Haohan Wang
+
+ICLR 2024 Workshop on Secure and Trustworthy Large Language Models (SeT LLM@ICLR'24)
+
+[PDF](https://arxiv.org/pdf/2402.03299) / [Code](https://github.com/Allen-piexl/GUARD) / [DOI](https://doi.org/10.48550/arXiv.2402.03299)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE'23</div><img src='images/ASE2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
