@@ -50,7 +50,7 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📖 Educations
 - *2024.09 - now*: &nbsp; PhD Candicate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US. 
-- *2020.09 - now*: &nbsp; PhD Candicate, Control Engineering, Control Science and Engineering, Hangzhou, China. 
+- *2020.09 - now*: &nbsp; PhD Candicate, Control Science and Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2016.09 - 2020.06*: &nbsp; Undergraduate, Communication Engineering, Zhejiang University of Technology, Hangzhou, China. 
 
 # 💻 Internships
