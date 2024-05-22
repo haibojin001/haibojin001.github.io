@@ -33,7 +33,7 @@ My research interest includes trustworthy machine learning and the robustness of
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ASE2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CertPri: certifiable prioritization for deep neural networks via movement cost in feature space](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10298498&casa_token=XQJ64WkgWy0AAAAA:lhkUs_9GIiav47xNgYA7dqoKPEGRi26X6Lw_tJjiYr-2xUrk3u01xZbWnw3yqbG4NWqBMNY8rQ&tag=1)
 
 Haibin Zheng, Jinyin Chen, **Haibo Jin**
 
