@@ -89,7 +89,7 @@ Information Sciences, 2022, 587: 97-122
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security</div><img src='images/advcheck23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security'24</div><img src='images/advcheck23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AdvCheck: Characterizing adversarial examples via local gradient checking**
