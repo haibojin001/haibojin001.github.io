@@ -105,7 +105,7 @@ Computers & Security, 2024, 136: 103540
 
 # 🎖️ Honors and Awards
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
-- *2022.4*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
+- *2022.04*: &nbsp;Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
 - *2021.10*: &nbsp; Postgraduate Premium Scholarship.
 
 # 📖 Educations
