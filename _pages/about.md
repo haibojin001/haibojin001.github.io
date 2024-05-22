@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Haibo Jin, a PhD student majoring in Information Sciences, at the University of Illinois Urbana-Champaign, under the supervision of Prof. [Haohan Wang](https://haohanwang.github.io/)
+I am Haibo Jin, a PhD student majoring in Information Sciences, at the University of Illinois Urbana-Champaign, under the supervision of Prof. [Haohan Wang](https://haohanwang.github.io/).
 
 Before that, I obtained my B.E. degree in Communication Engineering at the College of Information Engineering, Zhejiang University of Technology.
 
@@ -28,7 +28,7 @@ My research interest includes trustworthy machine learning and the robustness of
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,12 +49,9 @@ My research interest includes trustworthy machine learning and the robustness of
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - now*: &nbsp; PhD Candicate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US. 
+- *2020.09 - now*: &nbsp; PhD Candicate, Control Engineering, Control Science and Engineering, Hangzhou, China. 
+- *2016.09 - 2020.06*: &nbsp; Undergraduate, Communication Engineering, Zhejiang University of Technology, Hangzhou, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.04 - 2024.06*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
