@@ -25,8 +25,16 @@ My research interest includes trustworthy machine learning and the robustness of
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.05*: Submit our papr: Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters to NeurIPS'24!
+- *2024.05*: Submit our papr: GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models to NeurIPS'24!
+- *2024.05*: Submit our papr: GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing to NeurIPS'24!
+- *2024.05*: &nbsp;🎉🎉 Welcome to my [new homepage](https://haibojin001.github.io/)!
+- *2024.04*: &nbsp;🎉🎉 Receive an TA/RA offer from the School of Information Sciences, University of Illinois Urbana-Champaign!
+- *2024.03*: &nbsp;🎉🎉 Submit our papr: CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing to ECCV'24!
+- *2024.03*: &nbsp;🎉🎉 Submit our papr: EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models to ECCV'24!
+- *2024.03*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo), a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs).
+- *2024.01*: &nbsp;🎉🎉 Start my trip at the University of Illinois Urbana-Champaign as a vising scholar!
 
 # 📝 Selected Publications
 
