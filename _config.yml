@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haibo Jin"
-description              : "PhD student at University of Illinois Urbana-Champaign. <br/> Focusing on trustworthy machine learning."
+description              : "PhD student at the University of Illinois Urbana-Champaign. <br/> Focusing on trustworthy machine learning."
 repository               : "haibojin001/haibojin001.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Haibo Jin"
   avatar           : "images/images.jpg"
   bio              : "University of Illinois Urbana-Champaign"
-  location         : "IL, USA"
+  location         : "IL, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tj0eV-sAAAAJ"
