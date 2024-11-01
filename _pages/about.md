@@ -139,6 +139,21 @@ Information Sciences, 2022, 587: 97-122
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC'24</div><img src='images/NIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence**
+
+Ruoxi Chen, **Haibo Jin**, Haibin Zheng, Jinyin Chen, Zhenguang Liu
+
+IEEE Transactions on Dependable and Secure Computing, 2024
+
+[PDF](hhttps://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10640242&casa_token=HdEb7TI984kAAAAA:h36s8H6azLNwyf-Z37JGopvydxhQRwJaQP6tmg0Gg2Mt5V7t5zNiMufvO23A0NBN1MYEAL9bGQ&tag=1) / [Code](https://github.com/Allen-piexl/NIP-Neuron-level-Inverse-Perturbation)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers & Security'24</div><img src='images/advcheck23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
