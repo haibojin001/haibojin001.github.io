@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
+# 🔥 News
+<span class='anchor' id='news'></span>
+# 📝 Selected Publications
+<span class='anchor' id='publications'></span>
+# 🎖️ Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
+# 📖 Educations
+<span class='anchor' id='educations'></span>
+# 💻 Internships
+<span class='anchor' id='internships'></span>
+# 🔖 Service
+<span class='anchor' id='service'></span>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
