@@ -48,7 +48,7 @@ My research interest includes trustworthy machine learning and the robustness of
 
 **Haibo Jin**, Andy Zhou, Joe D Menke, Haohan Wang
   
-38th Conference on Neural Information Processing Systems (NeurIPS'24)
+The 38th Conference on Neural Information Processing Systems (NeurIPS'24)
 
 [PDF](https://arxiv.org/pdf/2405.20413) / [Code](https://github.com/Allen-piexl/llm_moderation_attack)
 </div>
