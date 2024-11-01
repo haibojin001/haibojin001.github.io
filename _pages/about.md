@@ -8,21 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
-# 🔥 News
-<span class='anchor' id='news'></span>
-# 📝 Selected Publications
-<span class='anchor' id='publications'></span>
-# 🎖️ Honors and Awards
-<span class='anchor' id='honors-and-awards'></span>
-# 📖 Educations
-<span class='anchor' id='educations'></span>
-# 💻 Internships
-<span class='anchor' id='internships'></span>
-# 🔖 Service
-<span class='anchor' id='service'></span>
-
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -38,7 +23,7 @@ Before that, I obtained my B.E. degree in Communication Engineering at the Colle
 
 My research interest includes trustworthy machine learning and the robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models, and multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Welcome to visit [JAM](https://llm-moderation-attack.vercel.app/) website.
 - *2024.10*: &nbsp;🎉🎉 Submit our paper: Jailbreaking LLM-Generated Content Detectors via Psychological Effects Guided Subtle Typos to NAACL'25!
@@ -55,6 +40,7 @@ My research interest includes trustworthy machine learning and the robustness of
 - *2024.03*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo), a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs).
 - *2024.01*: &nbsp;🎉🎉 Start my trip at the University of Illinois Urbana-Champaign as a vising scholar!
 
+<span class='anchor' id='publications'></span>
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/Jailbreak_NIPS.png' alt="sym" width="100%"></div></div>
@@ -184,19 +170,26 @@ Computers & Security, 2024, 136: 103540
 
 </div>
 </div>
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
 - *2022.04*: &nbsp; Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
 - *2021.10*: &nbsp; Postgraduate Premium Scholarship.
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 - *2024.09 - now*: &nbsp; PhD Candicate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US. 
 - *2020.09 - now*: &nbsp; PhD Candicate, Control Science and Engineering, Zhejiang University of Technology, Hangzhou, China. 
 - *2016.09 - 2020.06*: &nbsp; Undergraduate, Communication Engineering, Zhejiang University of Technology, Hangzhou, China. 
 
+<span class='anchor' id='internships'></span>
+
 # 💻 Internships
 - *2023.04 - 2024.06*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
+
+<span class='anchor' id='service'></span>
 
 # 🔖 Service
 - *2025*: &nbsp; ICLR 2025, AISTATS 2025
