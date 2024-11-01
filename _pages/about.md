@@ -41,7 +41,7 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/Jailbreak-NIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/Jailbreak_NIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters**
