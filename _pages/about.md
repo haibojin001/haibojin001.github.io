@@ -41,6 +41,18 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/Jailbreak-NIPS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters**
+
+**Haibo Jin**, Andy Zhou, Joe D Menke, Haohan Wang
+  
+38th Conference on Neural Information Processing Systems (NeurIPS'24)
+
+[PDF](https://arxiv.org/pdf/2405.20413) / [Code](https://github.com/Allen-piexl/llm_moderation_attack)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'24</div><img src='images/06326.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
