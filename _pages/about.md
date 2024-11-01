@@ -25,16 +25,16 @@ My research interest includes trustworthy machine learning and the robustness of
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Welcome to visit [JAM](https://llm-moderation-attack.vercel.app/) website.
+- *2024.10*: &nbsp;🎉🎉 Submit our paper: GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models to ICLR'25!
+- *2024.10*: &nbsp;🎉🎉 Submit our paper: GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing to ICLR'25!
+- *2024.10*: &nbsp;🎉🎉 Submit our paper: HessianGrad: Optimizing AI Systems with Hessian-Aware Textual Gradients to ICLR'25!
+- *2024.09*: &nbsp;🎉🎉 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters is accepted by NeurIPS'24!
 - *2024.07*: &nbsp;🎉🎉 CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing is accepted by ECCV'24!
 - *2024.07*: &nbsp;🎉🎉 EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models is accepted by ECCV'24!
 - *2024.06*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://chonghan-chen.com/llm-jailbreak-zoo-survey/) website.
-- *2024.05*: &nbsp;🎉🎉 Submit our papr: Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters to NeurIPS'24!
-- *2024.05*: &nbsp;🎉🎉 Submit our papr: GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models to NeurIPS'24!
-- *2024.05*: &nbsp;🎉🎉 Submit our papr: GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing to NeurIPS'24!
 - *2024.05*: &nbsp;🎉🎉 Welcome to my [new homepage](https://haibojin001.github.io/)!
-- *2024.04*: &nbsp;🎉🎉 Receive an TA/RA offer from the School of Information Sciences, University of Illinois Urbana-Champaign!
-- *2024.03*: &nbsp;🎉🎉 Submit our papr: CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing to ECCV'24!
-- *2024.03*: &nbsp;🎉🎉 Submit our papr: EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models to ECCV'24!
+- *2024.04*: &nbsp;🎉🎉 Receive a TA/RA offer from the School of Information Sciences, University of Illinois Urbana-Champaign!
 - *2024.03*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo), a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs).
 - *2024.01*: &nbsp;🎉🎉 Start my trip at the University of Illinois Urbana-Champaign as a vising scholar!
 
@@ -125,3 +125,7 @@ Computers & Security, 2024, 136: 103540
 
 # 💻 Internships
 - *2023.04 - 2024.06*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
+
+# 🔖 Service
+- *2025*: &nbsp; ICLR 2025, AISTATS 2025
+- *2024*: &nbsp; NeurIPS 2024, ICML 2024, WWW 2024, SeT LLM @ ICLR 2024
