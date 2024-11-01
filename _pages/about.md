@@ -30,6 +30,7 @@ My research interest includes trustworthy machine learning and the robustness of
 - *2024.10*: &nbsp;🎉🎉 Submit our paper: GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing to ICLR'25!
 - *2024.10*: &nbsp;🎉🎉 Submit our paper: HessianGrad: Optimizing AI Systems with Hessian-Aware Textual Gradients to ICLR'25!
 - *2024.09*: &nbsp;🎉🎉 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters is accepted by NeurIPS'24!
+- *2024.08*: &nbsp;🎉🎉 Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence is accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 - *2024.07*: &nbsp;🎉🎉 CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing is accepted by ECCV'24!
 - *2024.07*: &nbsp;🎉🎉 EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models is accepted by ECCV'24!
 - *2024.06*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://chonghan-chen.com/llm-jailbreak-zoo-survey/) website.
