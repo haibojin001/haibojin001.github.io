@@ -26,6 +26,7 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Welcome to visit [JAM](https://llm-moderation-attack.vercel.app/) website.
+- *2024.10*: &nbsp;🎉🎉 Submit our paper: Jailbreaking LLM-Generated Content Detectors via Psychological Effects Guided Subtle Typos to NAACL'25!
 - *2024.10*: &nbsp;🎉🎉 Submit our paper: GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models to ICLR'25!
 - *2024.10*: &nbsp;🎉🎉 Submit our paper: GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing to ICLR'25!
 - *2024.10*: &nbsp;🎉🎉 Submit our paper: HessianGrad: Optimizing AI Systems with Hessian-Aware Textual Gradients to ICLR'25!
