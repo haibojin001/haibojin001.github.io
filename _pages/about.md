@@ -41,6 +41,34 @@ My research interest includes trustworthy machine learning and the robustness of
 
 # 📝 Selected Publications
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'24</div><img src='images/06326.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing**
+
+**Haibo Jin**, Ruoxi Chen, Jinyin Chen, Haibin Zheng, Yang Zhang, Haohan Wang
+
+The 18th European Conference on Computer Vision (ECCV'24)
+
+[PDF](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06326.pdf) / [Code](https://github.com/Allen-piexl/CatchBackdoor)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV'24</div><img src='images/07991.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models**
+
+Ruoxi Chen, **Haibo Jin**, Yixin Liu, Jinyin Chen, Haohan Wang, Lichao Sun
+
+The 18th European Conference on Computer Vision (ECCV'24)
+
+[PDF](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07991.pdf) / [Code](https://github.com/Allen-piexl/Editshield)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SeT LLM@ICLR'24</div><img src='images/SetLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
