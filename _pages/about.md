@@ -19,17 +19,17 @@ redirect_from:
 
 I am Haibo Jin, a PhD student majoring in Information Sciences, at the University of Illinois Urbana-Champaign, under the supervision of Prof. [Haohan Wang](https://haohanwang.github.io/).
 
-Before that, I obtained my B.E. degree in Communication Engineering at the College of Information Engineering, Zhejiang University of Technology.
-
 My research interest includes trustworthy machine learning and the robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models, and multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+
+- *2025.10*: &nbsp;🎉🎉 Welcome to visit [llm-inductive-abilities](https://llm-inductive-abilities.vercel.app/)
+- *2025.09*: &nbsp;🎉🎉 Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps is accepted by NeurIPS'25!
+- *2025.08*: &nbsp;🎉🎉 Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation is accepted by EMNLP'25!
+- *2025.06*: &nbsp;🎉🎉 Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization is accepted by ICML'25!
+- *2024.12*: &nbsp;🎉🎉 Welcome our survey paper: Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
 - *2024.11*: &nbsp;🎉🎉 Welcome to visit [JAM](https://llm-moderation-attack.vercel.app/) website.
-- *2024.10*: &nbsp;🎉🎉 Submit our paper: Jailbreaking LLM-Generated Content Detectors via Psychological Effects Guided Subtle Typos to NAACL'25!
-- *2024.10*: &nbsp;🎉🎉 Submit our paper: GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models to ICLR'25!
-- *2024.10*: &nbsp;🎉🎉 Submit our paper: GuardVal: Dynamic Large Language Model Jailbreak Evaluation for Comprehensive Safety Testing to ICLR'25!
-- *2024.10*: &nbsp;🎉🎉 Submit our paper: HessianGrad: Optimizing AI Systems with Hessian-Aware Textual Gradients to ICLR'25!
 - *2024.09*: &nbsp;🎉🎉 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters is accepted by NeurIPS'24!
 - *2024.08*: &nbsp;🎉🎉 Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence is accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 - *2024.07*: &nbsp;🎉🎉 CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing is accepted by ECCV'24!
@@ -38,7 +38,7 @@ My research interest includes trustworthy machine learning and the robustness of
 - *2024.05*: &nbsp;🎉🎉 Welcome to my [new homepage](https://haibojin001.github.io/)!
 - *2024.04*: &nbsp;🎉🎉 Receive a TA/RA offer from the School of Information Sciences, University of Illinois Urbana-Champaign!
 - *2024.03*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo), a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs).
-- *2024.01*: &nbsp;🎉🎉 Start my trip at the University of Illinois Urbana-Champaign as a vising scholar!
+- *2024.01*: &nbsp;🎉🎉 Start my trip at the University of Illinois Urbana-Champaign as a visiting scholar!
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
@@ -174,20 +174,16 @@ Computers & Security, 2024, 136: 103540
 
 # 🎖️ Honors and Awards
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
-- *2022.04*: &nbsp; Zhejiang University of Technology "Top 10 Academic Stars" Scholarship. 
-- *2021.10*: &nbsp; Postgraduate Premium Scholarship.
 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2024.09 - now*: &nbsp; PhD Candicate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US. 
-- *2020.09 - now*: &nbsp; PhD Candicate, Control Science and Engineering, Zhejiang University of Technology, Hangzhou, China. 
-- *2016.09 - 2020.06*: &nbsp; Undergraduate, Communication Engineering, Zhejiang University of Technology, Hangzhou, China. 
+- *2025.09 - now*: &nbsp; PhD Candicate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US. 
 
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2023.04 - 2024.06*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
+- *2023.04 - 2025.08*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
 
 <span class='anchor' id='service'></span>
 
