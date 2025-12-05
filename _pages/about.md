@@ -56,6 +56,32 @@ The 39th Conference on Neural Information Processing Systems (NeurIPS'25)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'25</div><img src='images/2025.findings-emnlp.114.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**
+
+Jun Zhuang, **Haibo Jin**, Ye Zhang, Zhengjian Kang, Wenbin Zhang, Gaby G Dagher, Haohan Wang
+  
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25)
+
+[PDF](https://aclanthology.org/2025.findings-emnlp.114.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML'25</div><img src='images/10240_Revolve_Optimizing_AI_Sy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**
+
+Peiyan Zhang, **Haibo Jin**, Leyang Hu, Xinnuo Li, Liying Kang, Man Luo, Yangqiu Song, Haohan Wang
+  
+The 42nd International Conference on Machine Learning (ICML'25)
+
+[PDF](https://openreview.net/pdf?id=4vb9BDTIDh) / [Code](https://github.com/Peiyance/REVOLVE)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/Jailbreak_NIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
