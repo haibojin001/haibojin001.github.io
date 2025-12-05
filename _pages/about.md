@@ -24,7 +24,7 @@ My research interest includes trustworthy machine learning and the robustness of
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2025.10*: &nbsp;🎉🎉 Welcome to visit [llm-inductive-abilities](https://llm-inductive-abilities.vercel.app/)
+- *2025.10*: &nbsp;🎉🎉 Welcome to visit Neurips'25 [Paper](https://llm-inductive-abilities.vercel.app/) website.
 - *2025.09*: &nbsp;🎉🎉 Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps is accepted by NeurIPS'25!
 - *2025.08*: &nbsp;🎉🎉 Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation is accepted by EMNLP'25!
 - *2025.06*: &nbsp;🎉🎉 Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization is accepted by ICML'25!
