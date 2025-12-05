@@ -59,7 +59,7 @@ The 39th Conference on Neural Information Processing Systems (NeurIPS'25)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'25</div><img src='images/2025.findings-emnlp.114.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**
+**Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation**
 
 Jun Zhuang, **Haibo Jin**, Ye Zhang, Zhengjian Kang, Wenbin Zhang, Gaby G Dagher, Haohan Wang
   
