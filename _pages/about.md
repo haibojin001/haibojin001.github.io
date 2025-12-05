@@ -27,8 +27,9 @@ My research interest includes trustworthy machine learning and the robustness of
 - *2025.10*: &nbsp;🎉🎉 Welcome to visit Neurips'25 [Paper](https://llm-inductive-abilities.vercel.app/) website.
 - *2025.09*: &nbsp;🎉🎉 Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps is accepted by NeurIPS'25!
 - *2025.08*: &nbsp;🎉🎉 Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation is accepted by EMNLP'25!
+- *2025.07*: &nbsp;🎉🎉 Welcome to visit [Revolve](https://llm-revolve.netlify.app/) website.
 - *2025.06*: &nbsp;🎉🎉 Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization is accepted by ICML'25!
-- *2024.12*: &nbsp;🎉🎉 Welcome our survey paper: Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
+- *2024.12*: &nbsp;🎉🎉 Welcome to our survey paper: Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
 - *2024.11*: &nbsp;🎉🎉 Welcome to visit [JAM](https://llm-moderation-attack.vercel.app/) website.
 - *2024.09*: &nbsp;🎉🎉 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters is accepted by NeurIPS'24!
 - *2024.08*: &nbsp;🎉🎉 Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence is accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
