@@ -43,6 +43,19 @@ My research interest includes trustworthy machine learning and the robustness of
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'25</div><img src='images/20830_Evaluating_the_Inductive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps**
+
+**Haibo Jin**, Peiyan Zhang, Man Luo, Haohan Wang
+  
+The 39th Conference on Neural Information Processing Systems (NeurIPS'25)
+
+[PDF](https://openreview.net/pdf?id=yRxX01oRIi) / [Code](https://github.com/haibojin001/llm_inductive)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='images/Jailbreak_NIPS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
