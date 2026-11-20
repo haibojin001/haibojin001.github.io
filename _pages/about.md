@@ -324,7 +324,6 @@ Computers & Security, 2024, 136: 103540
 # 🎖️ Honors and Awards
 - *2026.05*: &nbsp; Gold Reviewer Award, ICML 2026 (placing among the top reviewers of the conference).
 - *2025.10*: &nbsp; Scholar Award, NeurIPS 2025 (Financial Assistance Program).
-- *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
 
 <span class='anchor' id='educations'></span>
 
