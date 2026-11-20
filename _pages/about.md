@@ -330,7 +330,6 @@ Computers & Security, 2024, 136: 103540
 
 # 📖 Educations
 - *2025.08 - now*: &nbsp; PhD Candidate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US.
-- *2020.10 - 2025.01*: &nbsp; PhD, Control Science and Engineering, Zhejiang University of Technology, Hangzhou, China.
 
 <span class='anchor' id='internships'></span>
 
