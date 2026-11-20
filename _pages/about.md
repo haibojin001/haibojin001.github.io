@@ -19,7 +19,7 @@ redirect_from:
 
 I am Haibo Jin, a PhD student in Information Sciences at the University of Illinois Urbana-Champaign, advised by Prof. [Haohan Wang](https://haohanwang.github.io/).
 
-My research focuses on trustworthy AI, including safety evaluation and red-teaming of large language models, LLM-based multi-agent systems, and generative engine optimization. If you are seeking any form of academic cooperation, please feel free to email me.
+My research focuses on trustworthy AI, including safety evaluation and red-teaming of large language models, LLM-based multi-agent systems, and generative engine optimization. If you are seeking any form of academic cooperation, please feel free to email me at [haibojin001@gmail.com](mailto:haibojin001@gmail.com).
 
 <span class='anchor' id='news'></span>
 # 🔥 News
