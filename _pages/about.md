@@ -17,34 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Haibo Jin, a PhD student in Information Sciences at the University of Illinois Urbana-Champaign, advised by Prof. [Haohan Wang](https://haohanwang.github.io/).
+I am Haibo Jin, a PhD student in Information Sciences at the University of Illinois Urbana-Champaign, advised by Prof. [Haohan Wang](https://haohanwang.github.io/) in the [DREAM Lab](https://dream.ischool.illinois.edu/).
 
-My research focuses on trustworthy AI, including safety evaluation and red-teaming of large language models, LLM-based multi-agent systems, and generative engine optimization. If you are seeking any form of academic cooperation, please feel free to email me at [haibojin001@gmail.com](mailto:haibojin001@gmail.com).
+My research focuses on:
+
+- **Trustworthy AI**: safety evaluation and red-teaming of large language models.
+- **Agentic AI**: LLM-based multi-agent systems built from reusable primitives.
+- **Generative engine optimization**: how LLM-based search ranks and recommends content.
+- **Tools for real-world impact**: platforms that put these methods in users' hands, such as [Heelo](https://www.heelo.dev/) and [TopCited AI](https://topcited.ai/).
+
+If you are seeking any form of academic cooperation, please feel free to email me at [haibojin001@gmail.com](mailto:haibojin001@gmail.com).
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
-- *2026.10*: &nbsp;🎉🎉 Our follow-up work on GUARD is accepted to Transactions on Machine Learning Research (TMLR)!
-- *2026.10*: &nbsp;🎉🎉 Two new first-author preprints: [LEGO](https://arxiv.org/abs/2610.09079) (large-scale repository engineering via reusable code primitives) and [HERMES](https://arxiv.org/abs/2610.07832) (harness engineering via modular dev-primitives)!
-- *2026.05*: &nbsp;🎉🎉 Received the ICML 2026 Gold Reviewer Award, placing among the top reviewers of the conference!
-- *2026.05*: &nbsp;🎉🎉 Started as an Applied Scientist Intern at Amazon Prime Video!
-- *2026.02*: &nbsp;🎉🎉 Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems is accepted to ICML 2026!
-- *2025.10*: &nbsp;🎉🎉 Welcome to visit Neurips'25 [Paper](https://llm-inductive-abilities.vercel.app/) website.
-- *2025.09*: &nbsp;🎉🎉 Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps is accepted by NeurIPS'25!
-- *2025.08*: &nbsp;🎉🎉 Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation is accepted by EMNLP'25!
-- *2025.07*: &nbsp;🎉🎉 Welcome to visit [Revolve](https://llm-revolve.netlify.app/) website.
-- *2025.06*: &nbsp;🎉🎉 Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization is accepted by ICML'25!
-- *2024.12*: &nbsp;🎉🎉 Welcome to our survey paper: Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems
-- *2024.11*: &nbsp;🎉🎉 Welcome to visit [JAM](https://llm-moderation-attack.vercel.app/) website.
-- *2024.09*: &nbsp;🎉🎉 Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters is accepted by NeurIPS'24!
-- *2024.08*: &nbsp;🎉🎉 Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence is accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
-- *2024.07*: &nbsp;🎉🎉 CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing is accepted by ECCV'24!
-- *2024.07*: &nbsp;🎉🎉 EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models is accepted by ECCV'24!
-- *2024.06*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://chonghan-chen.com/llm-jailbreak-zoo-survey/) website.
-- *2024.05*: &nbsp;🎉🎉 Welcome to my [new homepage](https://haibojin001.github.io/)!
-- *2024.04*: &nbsp;🎉🎉 Receive a TA/RA offer from the School of Information Sciences, University of Illinois Urbana-Champaign!
-- *2024.03*: &nbsp;🎉🎉 Welcome to visit [JailbreakZoo](https://github.com/Allen-piexl/JailbreakZoo), a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs).
-- *2024.01*: &nbsp;🎉🎉 Start my trip at the University of Illinois Urbana-Champaign as a visiting scholar!
+<div class="news-box" markdown="0">
+<ul class="news-list">
+  <li><time>Oct. 2026</time><span>Our follow-up work on GUARD is accepted to Transactions on Machine Learning Research (TMLR).</span></li>
+  <li><time>Oct. 2026</time><span>Two new first-author preprints: <a href="https://arxiv.org/abs/2610.09079" target="_blank" rel="noopener">LEGO</a> (large-scale repository engineering via reusable code primitives) and <a href="https://arxiv.org/abs/2610.07832" target="_blank" rel="noopener">HERMES</a> (harness engineering via modular dev-primitives).</span></li>
+  <li><time>June 2026</time><span>We released <a href="https://topcited.ai/" target="_blank" rel="noopener">TopCited AI</a>, a generative engine optimization (GEO) platform that helps brands get recommended and cited by AI-powered search engines and large language models.</span></li>
+  <li><time>June 2026</time><span>We released <a href="https://www.heelo.dev/" target="_blank" rel="noopener">Heelo</a>, an execution layer for AI agents: a unified API that lets agents handle real-world tasks such as placing orders, booking travel, sending outreach, and posting to social media.</span></li>
+  <li><time>May 2026</time><span>Received the ICML 2026 Gold Reviewer Award, placing among the top reviewers of the conference.</span></li>
+  <li><time>May 2026</time><span>Started as an Applied Scientist Intern at Amazon Prime Video.</span></li>
+  <li><time>Feb. 2026</time><span>Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems is accepted to ICML 2026.</span></li>
+  <li><time>Oct. 2025</time><span>Welcome to visit Neurips'25 <a href="https://llm-inductive-abilities.vercel.app/" target="_blank" rel="noopener">Paper</a> website.</span></li>
+  <li><time>Sept. 2025</time><span>Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps is accepted by NeurIPS'25.</span></li>
+  <li><time>Aug. 2025</time><span>Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation is accepted by EMNLP'25.</span></li>
+  <li><time>July 2025</time><span>Welcome to visit <a href="https://llm-revolve.netlify.app/" target="_blank" rel="noopener">Revolve</a> website.</span></li>
+  <li><time>June 2025</time><span>Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization is accepted by ICML'25.</span></li>
+  <li><time>Dec. 2024</time><span>Welcome to our survey paper: Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems.</span></li>
+  <li><time>Nov. 2024</time><span>Welcome to visit <a href="https://llm-moderation-attack.vercel.app/" target="_blank" rel="noopener">JAM</a> website.</span></li>
+  <li><time>Sept. 2024</time><span>Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters is accepted by NeurIPS'24.</span></li>
+  <li><time>Aug. 2024</time><span>Fight Perturbations with Perturbations: Defending Adversarial Attacks via Neuron Influence is accepted by IEEE Transactions on Dependable and Secure Computing (TDSC).</span></li>
+  <li><time>July 2024</time><span>CatchBackdoor: Backdoor Detection via Critical Trojan Neural Path Fuzzing is accepted by ECCV'24.</span></li>
+  <li><time>July 2024</time><span>EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models is accepted by ECCV'24.</span></li>
+  <li><time>June 2024</time><span>Welcome to visit <a href="https://chonghan-chen.com/llm-jailbreak-zoo-survey/" target="_blank" rel="noopener">JailbreakZoo</a> website.</span></li>
+  <li><time>May 2024</time><span>Welcome to my <a href="https://haibojin001.github.io/" target="_blank" rel="noopener">new homepage</a>.</span></li>
+  <li><time>Apr. 2024</time><span>Receive a TA/RA offer from the School of Information Sciences, University of Illinois Urbana-Champaign.</span></li>
+  <li><time>Mar. 2024</time><span>Welcome to visit <a href="https://github.com/Allen-piexl/JailbreakZoo" target="_blank" rel="noopener">JailbreakZoo</a>, a dedicated repository focused on the jailbreaking of large models (LMs), encompassing both large language models (LLMs) and vision language models (VLMs).</span></li>
+  <li><time>Jan. 2024</time><span>Start my trip at the University of Illinois Urbana-Champaign as a visiting scholar.</span></li>
+</ul>
+</div>
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
@@ -334,7 +347,7 @@ Computers & Security, 2024, 136: 103540
 
 # 💻 Internships
 - *2026.05 - now*: &nbsp; Applied Scientist Intern, Amazon Prime Video.
-- *2023.04 - 2025.08*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
+- *2023.04 - 2025.08*: &nbsp; Visiting scholar at [DREAM Lab](https://dream.ischool.illinois.edu/), University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
 
 <span class='anchor' id='service'></span>
 

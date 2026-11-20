@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haibo Jin"
   avatar           : "images/images.jpg"
-  bio              : "University of Illinois Urbana-Champaign"
+  bio              : "PhD student, <a href=\"https://dream.ischool.illinois.edu/\">DREAM Lab</a>, University of Illinois Urbana-Champaign"
   location         : "IL, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tj0eV-sAAAAJ"
-  email            : "haibo@illinois.edu"
+  email            : "haibojin001@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
