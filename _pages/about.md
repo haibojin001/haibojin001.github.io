@@ -17,13 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Haibo Jin, a PhD student majoring in Information Sciences, at the University of Illinois Urbana-Champaign, under the supervision of Prof. [Haohan Wang](https://haohanwang.github.io/).
+I am Haibo Jin, a PhD student in Information Sciences at the University of Illinois Urbana-Champaign, advised by Prof. [Haohan Wang](https://haohanwang.github.io/). I received my PhD in Control Science and Engineering from Zhejiang University of Technology in 2025.
 
-My research interest includes trustworthy machine learning and the robustness of deep learning systems. I am now working on attacks and defense on computer vision, diffusion models, and multi-modal models. If you are seeking any form of academic cooperation, please feel free to email me.
+My research focuses on trustworthy AI, including safety evaluation and red-teaming of large language models, LLM-based multi-agent systems, and generative engine optimization. If you are seeking any form of academic cooperation, please feel free to email me.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *2026.10*: &nbsp;🎉🎉 Our follow-up work on GUARD is accepted to Transactions on Machine Learning Research (TMLR)!
+- *2026.10*: &nbsp;🎉🎉 Two new first-author preprints: [LEGO](https://arxiv.org/abs/2610.09079) (large-scale repository engineering via reusable code primitives) and [HERMES](https://arxiv.org/abs/2610.07832) (harness engineering via modular dev-primitives)!
+- *2026.05*: &nbsp;🎉🎉 Received the ICML 2026 Gold Reviewer Award, placing among the top reviewers of the conference!
+- *2026.05*: &nbsp;🎉🎉 Started as an Applied Scientist Intern at Amazon Prime Video!
+- *2026.02*: &nbsp;🎉🎉 Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems is accepted to ICML 2026!
 - *2025.10*: &nbsp;🎉🎉 Welcome to visit Neurips'25 [Paper](https://llm-inductive-abilities.vercel.app/) website.
 - *2025.09*: &nbsp;🎉🎉 Evaluating the Inductive Abilities of Large Language Models: Why Chain-of-Thought Reasoning Sometimes Hurts More Than Helps is accepted by NeurIPS'25!
 - *2025.08*: &nbsp;🎉🎉 Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation is accepted by EMNLP'25!
@@ -43,6 +48,110 @@ My research interest includes trustworthy machine learning and the robustness of
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML'26</div><img src='images/agent-primitives-icml26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Agent Primitives: Reusable Latent Building Blocks for Multi-Agent Systems**
+
+**Haibo Jin**, Peng Kuang, Ye Yu, Xiaopeng Yuan, Haohan Wang
+
+The 43rd International Conference on Machine Learning (ICML'26)
+
+[PDF](https://arxiv.org/pdf/2602.03695) / [Code](https://github.com/haibojin001/AgentPrimitives)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/kv-prm-neurips26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling**
+
+Peng Kuang, **Haibo Jin**, Xiaoyu Han, Yanli Wang, Xiaopeng Yuan, Ye Yu, Kaidi Xu, Haohan Wang
+
+The 40th Annual Conference on Neural Information Processing Systems (NeurIPS'26)
+
+[PDF](https://arxiv.org/pdf/2607.09153)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL'26</div><img src='images/cort-acl26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning to Conceal Risk: Controllable Multi-turn Red Teaming for LLMs in the Financial Domain**
+
+Gang Cheng, **Haibo Jin**, Wenbin Zhang, Haohan Wang, Jun Zhuang
+
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26)
+
+[PDF](https://arxiv.org/pdf/2509.10546) / [Code](https://github.com/gcheng128/CoRT)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/guard-tmlr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GUARD: Guideline Upholding Test through Adaptive Role-play and Jailbreak Diagnostics for LLMs**
+
+**Haibo Jin**, Ruoxi Chen, Peiyan Zhang, Andy Zhou, Zelei Cheng, Haohan Wang
+
+Transactions on Machine Learning Research (TMLR)
+
+[PDF](https://openreview.net/pdf?id=ubIcFJcQlQ) / [arXiv](https://arxiv.org/abs/2508.20325)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL'26</div><img src='images/crafting-adv-eacl26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Crafting Adversarial Inputs for Large Vision-Language Models Using Black-Box Optimization**
+
+Jiwei Guan, **Haibo Jin**, Haohan Wang
+
+Findings of the European Chapter of the Association for Computational Linguistics (EACL'26)
+
+[PDF](https://aclanthology.org/2026.findings-eacl.246.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL'26</div><img src='images/now-you-hear-me-eacl26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**
+
+Ye Yu, **Haibo Jin**, Yaoning Yu, Jun Zhuang, Haohan Wang
+
+The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL'26)
+
+[PDF](https://aclanthology.org/2026.eacl-long.278.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM'26</div><img src='images/break-me-if-you-can-colm26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Break Me If You Can: Self-Jailbreaking of Aligned LLMs via Lexical Insertion Prompting**
+
+Devang Kulshreshtha*, Hang Su*, **Haibo Jin**, Chinmay Hegde, Haohan Wang
+
+The Third Annual Conference on Language Modeling (COLM'26)
+
+[PDF](https://arxiv.org/pdf/2601.02670)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'25 Workshop</div><img src='images/premise-neurips25ws.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models**
+
+Ye Yu, Yaoning Yu, **Haibo Jin**, Haohan Wang
+
+NeurIPS 2025 Workshop on Efficient Reasoning
+
+[PDF](https://arxiv.org/pdf/2506.10716)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'25</div><img src='images/20830_Evaluating_the_Inductive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -190,7 +299,7 @@ Ruoxi Chen, **Haibo Jin**, Haibin Zheng, Jinyin Chen, Zhenguang Liu
 
 IEEE Transactions on Dependable and Secure Computing, 2024
 
-[PDF](hhttps://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10640242&casa_token=HdEb7TI984kAAAAA:h36s8H6azLNwyf-Z37JGopvydxhQRwJaQP6tmg0Gg2Mt5V7t5zNiMufvO23A0NBN1MYEAL9bGQ&tag=1) / [Code](https://github.com/Allen-piexl/NIP-Neuron-level-Inverse-Perturbation)
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10640242&casa_token=HdEb7TI984kAAAAA:h36s8H6azLNwyf-Z37JGopvydxhQRwJaQP6tmg0Gg2Mt5V7t5zNiMufvO23A0NBN1MYEAL9bGQ&tag=1) / [Code](https://github.com/Allen-piexl/NIP-Neuron-level-Inverse-Perturbation)
 
 </div>
 </div>
@@ -213,20 +322,25 @@ Computers & Security, 2024, 136: 103540
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖️ Honors and Awards
+- *2026.05*: &nbsp; Gold Reviewer Award, ICML 2026 (placing among the top reviewers of the conference).
+- *2025.10*: &nbsp; Scholar Award, NeurIPS 2025 (Financial Assistance Program).
 - *2022.10*: &nbsp; National Scholarship, Postgraduate Premium Scholarship.
 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2025.09 - now*: &nbsp; PhD Candicate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US. 
+- *2025.08 - now*: &nbsp; PhD Candidate, Information Sciences, University of Illinois Urbana-Champaign, Illinois, US.
+- *2020.10 - 2025.01*: &nbsp; PhD, Control Science and Engineering, Zhejiang University of Technology, Hangzhou, China.
 
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
+- *2026.05 - now*: &nbsp; Applied Scientist Intern, Amazon Prime Video.
 - *2023.04 - 2025.08*: &nbsp; Visiting scholar at DREAM Lab, University of Illinois Urbana-Champaign, US. (Supervisor: [Haohan Wang](https://haohanwang.github.io/))
 
 <span class='anchor' id='service'></span>
 
 # 🔖 Service
-- *2025*: &nbsp; ICLR 2025, AISTATS 2025
+- *2026*: &nbsp; ICML 2026, NeurIPS 2026, CVPR 2026, AAAI 2026, AAAI 2027, ICLR 2027, AISTATS 2027, KDD 2027, TMLR, IEEE T-IFS, IJHCI, LP4FM @ NeurIPS 2026
+- *2025*: &nbsp; ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, ResponsibleFM @ NeurIPS 2025
 - *2024*: &nbsp; NeurIPS 2024, ICML 2024, WWW 2024, SeT LLM @ ICLR 2024
