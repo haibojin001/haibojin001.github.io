@@ -24,7 +24,7 @@ My research focuses on:
 - **Trustworthy AI**: safety evaluation and red-teaming of large language models.
 - **Agentic AI**: LLM-based multi-agent systems built from reusable primitives.
 - **Generative engine optimization**: how LLM-based search ranks and recommends content.
-- **Tools for real-world impact**: platforms that put these methods in users' hands: [Heelo](https://www.heelo.dev/) and [TopCited AI](https://topcited.ai/).
+- **Tools for real-world impact**: [Heelo](https://www.heelo.dev/) and [TopCited AI](https://topcited.ai/), platforms that put these methods in users' hands.
 
 If you are seeking any form of academic cooperation, please feel free to email me at [haibojin001@gmail.com](mailto:haibojin001@gmail.com).
 
